@@ -41,7 +41,7 @@ To integrate this step into the Part 1 workflow, I will insert it right after th
 
 ## Part 3: Simple AI/ML & Data Science Task 
 ### The Notebook:
-
+ [`iris_ml.ipynb`](./iris_ml.ipynb)
 ### Classification Report:
 1. **Model Selection:**
 
