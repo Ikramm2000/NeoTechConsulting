@@ -40,3 +40,17 @@ Price, Features, Support, or Other. Respond ONLY with the single category name.
 To integrate this step into the Part 1 workflow, I will insert it right after the “New or Updated Row in Google Sheets” trigger. Use the OpenAI (ChatGPT) app to classify the “response” using the prompt above. The model will return a category — one of: Price, Features, Support, or Other. Then, use a “Update Row” step to write that result into the "category" column in the same row, using the Row ID.  
 
 ## Part 3: Simple AI/ML & Data Science Task 
+### The Notebook:
+
+### Classification Report:
+1. **Model Selection:**
+
+We implemented a logistic regression model to classify iris species, chosen for its simplicity and effectiveness in handling multi-class classification.
+
+2. **Test Accuracy:**
+
+The model achieved 97% accuracy on the test set, demonstrating strong predictive capability with minimal complexity. 
+
+3. **Improvement Idea:**
+
+To further improve the model accuracy and  boost performance, I’d perform hyperparameter tuning via grid search with cross‑validation.
