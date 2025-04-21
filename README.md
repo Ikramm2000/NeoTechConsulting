@@ -13,6 +13,9 @@ To prevent duplicate entries:
 2. **Filter**: Proceed only if the email isn’t found.  
 3. **Add Row**: Write data to the Sheet only after passing the filter.
 
+**Improvement for Production**: 
+Send confirmation email to user, Thank them and let them know their message was received.
+
 **Resources**
 - Google Form: [Contact Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSfRP0vGM0AptfBE5TVtM3aAJHdJ9tB7CVnEjVCOi3Du6xeFXA/viewform?usp=header)
 - Google Sheet: [Form Responses Sheet](https://docs.google.com/spreadsheets/d/1b2oaXDHNjEb8Sz950NKWIWWvY8DyxQS6bj4WJzmfQ1g/edit?usp=sharing)
